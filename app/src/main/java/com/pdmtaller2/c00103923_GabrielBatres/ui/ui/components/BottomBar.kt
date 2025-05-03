@@ -1,4 +1,3 @@
-// Archivo: BottomBar.kt
 package com.pdmtaller2.c00103923_GabrielBatres.ui.components
 
 import androidx.compose.material3.NavigationBar
